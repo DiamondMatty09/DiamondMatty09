@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @DiamondMatty09 but i use TheDiamondMatty09, TheDiamondMatty, and TDM09 on various places
-- 👀 I’m interested in making a website
-- 🌱 I’m currently learning webdev css, html, js
-- 💞️ I’m looking to collaborate on nothing, solo dev
-- 📫 How to reach me: find an account from what i've given you
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i exist
+I'm TheDiamondMatty09 and I plan to do some cool stuff people will find out about later
